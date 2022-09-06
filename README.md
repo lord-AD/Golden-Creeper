@@ -1,5 +1,5 @@
    <h1 align="center">About Me</h1>
-<p align="center"><h4 align="center"><samp>Discord Bot Developer & Web Degsiner</samp></h4></p>
+<p align="center"><h4 align="center"><samp>Discord Bot Developer</samp></h4></p>
    <h3 align="center">👋 Hi, I’m Gc </h3>
           <p align="center">   👀 I’m Little develooper ... </p>
  <p align="center">  🌱 I’m currently learning Js and work on Gc's City Bot and Mega Bot  </p>
