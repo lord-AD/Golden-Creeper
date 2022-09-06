@@ -12,5 +12,5 @@
 <a href="https://github.com/Golden-Creeper"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/982200327484882976.png" >
+<img src="https://discord.c99.nl/widget/theme-1/982200327484882976.png" >
 </p>
