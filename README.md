@@ -8,7 +8,7 @@
 <p align="center">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/982200327484882976" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="[https://github.com/Golden-Creeper](https://discord.gg/qqGFA3WrcB)" target="_blank"><img alt="website" title="website" height="32" width="32" src="http://cdn.onlinewebfonts.com/svg/img_190618.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/qqGFA3WrcB" target="_blank"><img alt="website" title="website" height="32" width="32" src="http://cdn.onlinewebfonts.com/svg/img_190618.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Golden-Creeper"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
 <p align="center">
